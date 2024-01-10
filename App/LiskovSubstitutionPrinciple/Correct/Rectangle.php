@@ -1,6 +1,6 @@
 <?php
 
-namespace App\LiskovSubstitutionPrinciple;
+namespace App\LiskovSubstitutionPrinciple\Correct;
 
 class Rectangle implements CalculableArea
 {
